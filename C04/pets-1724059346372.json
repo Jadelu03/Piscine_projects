@@ -1,0 +1,33 @@
+[
+  {
+    "color": "white",
+    "type": "dog",
+    "size": "nano",
+    "name": "Milo"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "Bailey"
+  },
+  {
+    "color": "red",
+    "type": "fox",
+    "size": "nano",
+    "name": "Evelyn"
+  },
+  {
+
+    "color": "red",
+    "type": "crab",
+    "size": "nano",
+    "name": "Pincer"
+  },
+  {
+    "color": "white",
+    "type": "rat",
+    "size": "nano",
+    "name": "Hector"
+  }
+]
